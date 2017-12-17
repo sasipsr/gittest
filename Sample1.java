@@ -1,6 +1,6 @@
 Class Sample1{
 public static void main(String args[])
 {
-System.out.println("Hello Sasii ha");
+System.out.println("Hello Sasii hai Sasi");
 }
 }
