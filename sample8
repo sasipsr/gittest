@@ -8,5 +8,12 @@ additional first line added
 additional third line added
 =======
 additoanl second line added
+<<<<<<< HEAD
+additional fourth line added
+=======
 >>>>>>> 8b4be87ec2ea05953a2761b7351b87aeb1b58f82
+<<<<<<< HEAD
 additional fifth line added
+=======
+>>>>>>> efc0dc890bb61fa115e1146add2829b33405906f
+>>>>>>> 3ca76390c3f9ab50f12e16a6f5e0772ec327f8af
